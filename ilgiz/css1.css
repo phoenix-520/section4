@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(116, 153, 116);
+    color: blue;
+}
+
+.header{
+    color:green
+}
+
+.prof {
+    background-color: coral;
+}
+
+.top {
+    color:rgb(0, 0, 0);
+}
+.super {
+    color:white;
+    border: 10px solid black;
+}
+
+#mark {
+    color:rgb(98, 20, 20);
+}
+
+hr {
+    border-color: black;
+    height: 5px;
+}
+
+.name:hover {
+    color:red;
+}
+/*
